@@ -1,0 +1,35 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="title">
+        <item name="android:layout_width">300dp</item>
+        <item name="android:layout_height">30dp</item>
+        <item name="android:textSize">36sp</item>
+        <item name="android:textColor">#996600</item>
+        <item name="android:text">Walk This Way</item>
+    </style>
+
+    <style name="buttonNext">
+    <item name="android:layout_width">300dp</item>
+    <item name="android:layout_height">30dp</item>
+    <item name="android:textSize">18sp</item>
+    <item name="android:textColor">#000000</item>
+    <item name="android:text">NEXT</item>
+    </style>
+
+    <style name="buttonBack">
+    <item name="android:layout_width">300dp</item>
+    <item name="android:layout_height">30dp</item>
+    <item name="android:textSize">18sp</item>
+    <item name="android:textColor">#000000</item>
+    <item name="android:text">BACK</item>
+    </style>
+
+</resources>
